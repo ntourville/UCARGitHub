@@ -1,0 +1,6 @@
+Create a new branch
+Go to that branch
+Make a modification
+Push to Github!
+Merge the two branches
+Push that to Github
